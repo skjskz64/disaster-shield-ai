@@ -1,8 +1,8 @@
 # DisasterShield AI: An Intelligent Disaster Prediction & Adaptive Response Grid for Vulnerable Regions
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌍 Vision
 To build a scalable, AI-driven disaster response infrastructure that predicts risks early, delivers multilingual alerts instantly, and enables data-driven emergency resource allocation — especially for rural and high-risk regions.
-_________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🧩 The Problem:
 Natural disasters in India cause severe damage every year due to:
 *   Delayed early warning systems
@@ -12,7 +12,8 @@ Natural disasters in India cause severe damage every year due to:
 *   Static response models that do not learn from field feedback
 
 Existing systems are reactive. DisasterShield AI is predictive and adaptive.
-__________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 💡 The Solution:
 DisasterShield AI is a modular disaster response grid that combines:
 *   AI-powered risk prediction
@@ -23,7 +24,7 @@ DisasterShield AI is a modular disaster response grid that combines:
 *   Continuous model retraining from ground data
 
 It transforms disaster management from reactive response to proactive preparedness.
-___________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ⚙️ Core System Modules:
 
@@ -61,7 +62,8 @@ ________________________________________________________________________________
 *  Medical teams deployment
 *  Rescue boats allocation
 
-____________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 🏗️ High-Level Architecture:
 
 Data Sources (Weather APIs / Satellite Data / Sensors)
@@ -71,6 +73,7 @@ Data Sources (Weather APIs / Satellite Data / Sensors)
 AI Risk Engine
 
 ⬇
+
 Alert Engine
 
 ⬇
@@ -87,7 +90,7 @@ Model Retraining System
 
 
 This architecture enables continuous improvement and adaptive intelligence.
-_______________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛠️ Technical Implementation (Backend Structure)
 ## Planned backend stack:
@@ -98,14 +101,16 @@ ________________________________________________________________________________
 *   Cloud deployment-ready architecture
 
 The system is designed to scale from district-level to national-level deployment.
-________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 📊 Scalability & Future Scope
 *   NDMA integration
 *   Edge-device rural deployment
 *   Real-time IoT flood sensor integration
 *   AI auto-retraining pipeline
 *   Disaster simulation training module
-_________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 🌟 Unique Value Proposition
 
 ✔ Hyperlocal risk prediction
