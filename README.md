@@ -76,7 +76,7 @@ Volunteer Feedback Loop
 ⬇
 Model Retraining System
 
-This architecture ensures continuous improvement and adaptive intelligence.
+This architecture enables continuous improvement and adaptive intelligence.
 
 
 🛠️ Technical Implementation (Backend Structure)
