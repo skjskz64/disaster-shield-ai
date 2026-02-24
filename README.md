@@ -1,6 +1,7 @@
 # DisasterShield AI: An Intelligent Disaster Prediction & Adaptive Response Grid for Vulnerable Regions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ##🌍Vision
+ ##Vision:
+ 
 To build a scalable, AI-driven disaster response infrastructure that predicts risks early, delivers multilingual alerts instantly, and enables data-driven emergency resource allocation — especially for rural and high-risk regions.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🧩##The Problem:
